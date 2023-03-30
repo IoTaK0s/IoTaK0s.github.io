@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on IoTaK0s</title>
+    <link>https://IoTaK0s.github.io/tags/</link>
+    <description>Recent content in Tags on IoTaK0s</description>
+    <image>
+      <title>IoTaK0s</title>
+      <url>https://IoTaK0s.github.io/papermod-cover.png</url>
+      <link>https://IoTaK0s.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://IoTaK0s.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coppersmith&#39;s attack</title>
+      <link>https://IoTaK0s.github.io/tags/coppersmiths-attack/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://IoTaK0s.github.io/tags/coppersmiths-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTB</title>
+      <link>https://IoTaK0s.github.io/tags/htb/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://IoTaK0s.github.io/tags/htb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maths</title>
+      <link>https://IoTaK0s.github.io/tags/maths/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://IoTaK0s.github.io/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSA</title>
+      <link>https://IoTaK0s.github.io/tags/rsa/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://IoTaK0s.github.io/tags/rsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
