@@ -16,6 +16,7 @@ Members of the team:
 - [Daniel Monzón](https://twitter.com/stark0de1)
 - [Diego Palacios](https://twitter.com/Diego_AltF4)
 - [Ismael Esquilichi](https://twitter.com/esquilichii)
+- [David Rodríguez](https://twitter.com/90n20sec)
 - [Javier Valsera](https://twitter.com/jvalserac)
 - [Carlos Barahona](https://twitter.com/cbara_)
 - [Pablo Redondo](https://twitter.com/pablorc_8)
