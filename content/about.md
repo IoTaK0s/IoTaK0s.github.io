@@ -17,6 +17,7 @@ Members of the team:
 - [Diego Palacios](https://twitter.com/Diego_AltF4)
 - [Ismael Esquilichi](https://twitter.com/esquilichii)
 - [David Rodríguez](https://twitter.com/90n20sec)
+- [Diego García](https://twitter.com/_nt_tnt)
 - [Javier Valsera](https://twitter.com/jvalserac)
 - [Carlos Barahona](https://twitter.com/cbara_)
 - [Pablo Redondo](https://twitter.com/pablorc_8)
